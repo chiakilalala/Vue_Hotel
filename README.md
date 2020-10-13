@@ -1,14 +1,20 @@
-# The-F2E_HotelReservation
+# Hotel_Reservation
 
-## 心得
-原本是想把兩個index都做出來的...  
-不過看來時間上有點勉強哈哈
+## 使用技術
 
-<br>
-這次主要是因為不太熟悉AJAX，在這上面卡了比較多時間<br>
-另外日曆是使用老師推的Vue-Hoter-Datepicker<br>
-因為和設計稿上差蠻多的就自己下去改了Css相關，改的資料有上傳上來，<br>
-麻煩再自行取用了謝謝
+1. Vue Cli3/Vuex/Vue-Router
+2. Vue-Hoter-Datepicker
+
+
+## 改進目標
+
+1.使用Nuxt.js
+2.未來可增加金流功能
+
+
+![](https://i.imgur.com/OqwyFLp.jpg)
+
+
 
 ## 運行
 1. 使用 clone 載到專案資料夾
@@ -36,6 +42,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
